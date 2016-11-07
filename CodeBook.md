@@ -6,14 +6,14 @@ The original full description of the data can be found [here](http://archive.ics
 ##Process
 After downloading the data and unzipping it the code will read in the data to the following variables:
 
--featureNames > Holds the feature names 
--Alabels > Holds activity labels
--x_test > Acceleration in the x dimension for test data
--y_test > Acceleration in the y dimension for test data
--x_train > Acceleration in the x dimension for train data
--y_train > Acceleration in the y dimension for train data
--test_subject > Test subject identification
--train_subject > Train subject identification
+* featureNames > Holds the feature names 
+* Alabels > Holds activity labels
+* x_test > Acceleration in the x dimension for test data
+* y_test > Acceleration in the y dimension for test data
+* x_train > Acceleration in the x dimension for train data
+* y_train > Acceleration in the y dimension for train data
+* test_subject > Test subject identification
+* train_subject > Train subject identification
 
 
 ##Next
